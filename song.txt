@@ -2,3 +2,6 @@ some lines
 some other lines
 third line
 fourth line
+
+two more lines
+are being added
